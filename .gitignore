@@ -1,0 +1,33 @@
+# KiCad backup and autosave
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*.kicad_dru-bak
+*.kicad_sym-bak
+
+# Cache and temporary
+*-cache.lib
+*-rescue.lib
+*.bak
+*.tmp
+*.swp
+
+# Generated outputs
+*.pdf
+*.png
+*.svg
+*.step
+*.stp
+*.iges
+*.gbr
+*.drl
+*.zip
+outputs/
+
+# 3D model cache (optional, if regenerated)
+*.3dshapes
+
+# OS/system files
+.DS_Store
+Thumbs.db
