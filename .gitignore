@@ -14,8 +14,6 @@
 *.swp
 
 # Generated outputs
-*.pdf
-*.png
 *.svg
 *.step
 *.stp
