@@ -23,6 +23,11 @@ The corresponding code, written in c can be found [here](https://github.com/Torb
   - GPS (NEO-M8N)  
   - Time-of-flight sensor (VL53L1X)  
 
+## Images
+![PCB image](/images/pcb_side.png "Optional Title")
+![PCB image](/images/pcb_front.png "Optional Title")
+![PCB image](/images/pcb_back.png "Optional Title")
+
 ## Notes / Limitations
 - TVS diode limits voltage, so this board is not suitable for 3S+ LiPo packs.  
 - Board is still under development.
